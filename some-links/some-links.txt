@@ -14,4 +14,7 @@ https://developer.mozilla.org/de/docs/Glossary/Percent-encoding
     die im Kontext von URLs eine spezielle Bedeutung haben. 
     Es wird manchmal auch URL-Kodierung genannt. 
     Die Kodierung besteht aus einer Substitution: 
-    Ein '%' gefolgt von der hexadezimalen Darstellung des ASCII-Werts des ersetzten Zeichens.    
+    Ein '%' gefolgt von der hexadezimalen Darstellung des ASCII-Werts des ersetzten Zeichens. 
+
+https://developer.mozilla.org/de/docs/Learn_web_development/Getting_started/Your_first_website/Adding_interactivity
+    # hier weiter lernen 2026-10-04
