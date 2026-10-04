@@ -10,17 +10,20 @@
     <!-- verhindert, dass mobile Browser Seiten breiter als die Ansicht rendern und sie dann verkleinern.-->
     <title>My test page</title>
     <!--Titel, der im Browser-Tab erscheint, in dem die Seite geladen wird. Es wird auch verwendet, um die Seite zu beschreiben, wenn Sie sie als Lesezeichen/Favorit speichern.-->
-    <link href="styles/style-ext1.css" rel="stylesheet" />
+    <link href="styles/style-ext2.css" rel="stylesheet" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
       href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap"
       rel="stylesheet"
     />
+    <script async src="scripts/main.js"></script>
+    <script async src="scripts/done.js"></script>
   </head>
   <body>
     <!--Element enthält alle Inhalte, die Sie Webnutzer zeigen möchten-->
     <h1>My main title [h1]</h1>
+    <!--wird von javascript geändert, siehe scripts/main.js-->
     <img
       src="images/firefox-icon.png"
       alt="Das Firefox-Logo: ein flammender Fuchs, der die Erde umgibt."
@@ -30,23 +33,13 @@
     <h2>My top level heading [h2]</h2>
     <h3>My subheading [h3]</h3>
     <h4>My sub-subheading [h4]</h4>
-    <p>At Mozilla, we're a global community of</p>
+
+    <p>Instructions for life - with done.js</p>
     <ul>
-      <li>technologists [li]</li>
-      <li>thinkers [li]</li>
-      <li>builders [li]</li>
+      <li>Eat</li>
+      <li>Sleep</li>
+      <li>Repeat</li>
     </ul>
 
-    <p>working together …</p>
-
-    <p>
-      Read the
-      <a href="https://www.mozilla.org/en-US/about/manifesto/">
-        Mozilla Manifesto  
-      </a>
-      [a with href attribute represents a hyperlink] to learn even more about the values and principles that guid the pursuit
-      of our mission.
-      <!-- href steht für hypertext reference -->
-    </p>
   </body>
 </html>
