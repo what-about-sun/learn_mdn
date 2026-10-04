@@ -1,0 +1,17 @@
+https://tldr.sh/
+https://tldr.inbrowser.app/pages/common/sed
+    # The tldr pages are a community effort to simplify the beloved man pages with practical examples.
+https://sandbox.bio/
+https://sandbox.bio/tutorials
+https://sandbox.bio/playgrounds/terminal
+    # Everything runs in a sandbox, so you can experiment all you want.
+https://developers.google.com/search/docs/crawling-indexing/url-structure?hl=de
+    # Best Practices für die URL‑Struktur
+https://code.visualstudio.com/docs/configure/keybindings#_keyboard-rules
+    # Keyboard shortcuts for Visual Studio Code
+https://developer.mozilla.org/de/docs/Glossary/Percent-encoding
+    # Prozentkodierung ist ein Mechanismus zur Kodierung von 8-Bit-Zeichen, 
+    die im Kontext von URLs eine spezielle Bedeutung haben. 
+    Es wird manchmal auch URL-Kodierung genannt. 
+    Die Kodierung besteht aus einer Substitution: 
+    Ein '%' gefolgt von der hexadezimalen Darstellung des ASCII-Werts des ersetzten Zeichens.    
