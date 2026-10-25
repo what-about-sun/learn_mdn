@@ -18,3 +18,5 @@ https://developer.mozilla.org/de/docs/Glossary/Percent-encoding
 
 https://developer.mozilla.org/de/docs/Learn_web_development/Getting_started/Your_first_website/Adding_interactivity
     # hier weiter lernen 2026-10-04
+https://developer.mozilla.org/de/docs/Learn_web_development/Getting_started/Web_standards
+    # hier weiter lernen 2026-10-25    

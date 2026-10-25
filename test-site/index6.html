@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en-US">
+  <!-- umschließt den gesamten Inhalt der gesamten Seite und wird manchmal als Root-Element bezeichnet. -->
+  <!-- Anleitung und Idee kommt von hier: https://developer.mozilla.org/de/docs/Learn_web_development/Getting_started/Your_first_website/Styling_the_content -->
+  <head>
+    <!-- Container für alle Dinge, die Sie auf der HTML-Seite aufnehmen möchten, die nicht der Inhalt sind, den Sie den Betrachtern Ihrer Seite zeigen. -->
+    <meta charset="utf-8" />
+    <!-- Es gibt keinen Grund, dies nicht zu setzen-->
+    <meta name="viewport" content="width=device-width" />
+    <!-- verhindert, dass mobile Browser Seiten breiter als die Ansicht rendern und sie dann verkleinern.-->
+    <title>My test page</title>
+    <!--Titel, der im Browser-Tab erscheint, in dem die Seite geladen wird. Es wird auch verwendet, um die Seite zu beschreiben, wenn Sie sie als Lesezeichen/Favorit speichern.-->
+    <link href="styles/style-ext2.css" rel="stylesheet" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap"
+      rel="stylesheet"
+    />
+    <script defer src="scripts/main.js"></script>
+    <script defer src="scripts/done.js"></script>
+  </head>
+  <body>
+    <!--Element enthält alle Inhalte, die Sie Webnutzer zeigen möchten-->
+    <h1>My main title [h1]</h1>
+    <!--wird von javascript geändert, siehe scripts/main.js-->
+    <img
+      src="images/firefox-icon.png"
+      alt="Das Firefox-Logo: ein flammender Fuchs, der die Erde umgibt."
+    />
+    <!-- Einige HTML-Elemente haben auch Attribute, die zusätzliche Einstellungen oder Informationen über das Element enthalten — siehe zum Beispiel charset, name und src in unserem Codebeispiel. -->
+    <!-- 4 heading levels: -->
+    <h2>My top level heading [h2]</h2>
+    <h3>My subheading [h3]</h3>
+    <h4>My sub-subheading [h4]</h4>
+
+    <p>Instructions for life - with done.js</p>
+    <ul>
+      <li>Eat</li>
+      <li>Sleep</li>
+      <li>Repeat</li>
+    </ul>
+
+    <button>Change user</button>
+
+  </body>
+</html>
